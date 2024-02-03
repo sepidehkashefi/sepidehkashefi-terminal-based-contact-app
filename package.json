@@ -7,7 +7,7 @@
         "start": "node main.js"
     },
     "keywords": [],
-    "author": "",
+    "author": "sepeloper",
     "license": "ISC",
     "devDependencies": {
         "@types/node": "^14.0.1"
